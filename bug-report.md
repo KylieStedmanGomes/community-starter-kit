@@ -1,4 +1,4 @@
-# Bug Request Template
+# Bug Report Template
 
 ### Bug Type
 
