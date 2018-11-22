@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome new members
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcomes first time users when they either:
+* open a new issue
+* open a new pull request
 
 ## Getting started
 
